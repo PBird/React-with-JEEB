@@ -1,9 +1,10 @@
 import React from "react";
+import Hello from "./Hello";
 
 const App: React.FC = () => {
   return (
     <div>
-      <h1> Hello </h1>
+      <Hello />
     </div>
   );
 };
